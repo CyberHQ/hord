@@ -1,0 +1,11 @@
+{
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Cyberlutions\u00ae",
+  "email": "jo@cyberlutions.com.au",
+  "friendly_name": "Hord",
+  "github_user": "cyberlutions-jo",
+  "license": "GPL-3.0",
+  "package_name": "hord",
+  "project_name": "hord",
+  "version": "0.0.0"
+}
