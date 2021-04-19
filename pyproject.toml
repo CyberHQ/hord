@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "hord"
 version = "0.0.0"
-description = "Hord"
+description = "Hord - heuristiclly obtained relational data"
 authors = ["Cyberlutions <cyberlutions-jo@outlook.com>"]
 license = "GPL-3.0"
 readme = "README.rst"

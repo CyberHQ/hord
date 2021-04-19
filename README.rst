@@ -22,7 +22,7 @@ Hord
 .. |Tests| image:: https://github.com/CyberHQ/hord/workflows/Tests/badge.svg
    :target: https://github.com/CyberHQ/hord/actions?workflow=Tests
    :alt: Tests
-.. |Codecov| image:: https://codecov.io/gh/CyberHQ/hord/branch/main/graph/badge.svg
+.. |Codecov| image:: https://codecov.io/gh/CyberHQ/hord/branch/main/graph/badge.svg?token=6IHR8VAC3W
    :target: https://codecov.io/gh/CyberHQ/hord
    :alt: Codecov
 .. |pre-commit| image:: https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white
