@@ -2,11 +2,11 @@
 name = "hord"
 version = "0.0.0"
 description = "Hord"
-authors = ["Cyberlutions® <jo@cyberlutions.com.au>"]
+authors = ["Cyberlutions <cyberlutions-jo@outlook.com>"]
 license = "GPL-3.0"
 readme = "README.rst"
-homepage = "https://github.com/cyberlutions-jo/hord"
-repository = "https://github.com/cyberlutions-jo/hord"
+homepage = "https://github.com/CyberHQ/hord"
+repository = "https://github.com/CyberHQ/hord"
 documentation = "https://hord.readthedocs.io"
 classifiers = [
     "Programming Language :: Python :: 3.6",
@@ -16,7 +16,7 @@ classifiers = [
 ]
 
 [tool.poetry.urls]
-Changelog = "https://github.com/cyberlutions-jo/hord/releases"
+Changelog = "https://github.com/CyberHQ/hord/releases"
 
 [tool.poetry.dependencies]
 python = "^3.6.1"

@@ -19,11 +19,11 @@ Hord
 .. |Read the Docs| image:: https://img.shields.io/readthedocs/hord/latest.svg?label=Read%20the%20Docs
    :target: https://hord.readthedocs.io/
    :alt: Read the documentation at https://hord.readthedocs.io/
-.. |Tests| image:: https://github.com/cyberlutions-jo/hord/workflows/Tests/badge.svg
-   :target: https://github.com/cyberlutions-jo/hord/actions?workflow=Tests
+.. |Tests| image:: https://github.com/CyberHQ/hord/workflows/Tests/badge.svg
+   :target: https://github.com/CyberHQ/hord/actions?workflow=Tests
    :alt: Tests
-.. |Codecov| image:: https://codecov.io/gh/cyberlutions-jo/hord/branch/main/graph/badge.svg
-   :target: https://codecov.io/gh/cyberlutions-jo/hord
+.. |Codecov| image:: https://codecov.io/gh/CyberHQ/hord/branch/main/graph/badge.svg
+   :target: https://codecov.io/gh/CyberHQ/hord
    :alt: Codecov
 .. |pre-commit| image:: https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white
    :target: https://github.com/pre-commit/pre-commit
@@ -92,7 +92,7 @@ This project was generated from `@cjolowicz`_'s `Hypermodern Python Cookiecutter
 .. _GPL 3.0 license: https://opensource.org/licenses/GPL-3.0
 .. _PyPI: https://pypi.org/
 .. _Hypermodern Python Cookiecutter: https://github.com/cjolowicz/cookiecutter-hypermodern-python
-.. _file an issue: https://github.com/cyberlutions-jo/hord/issues
+.. _file an issue: https://github.com/CyberHQ/hord/issues
 .. _pip: https://pip.pypa.io/
 .. github-only
 .. _Contributor Guide: CONTRIBUTING.rst

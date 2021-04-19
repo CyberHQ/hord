@@ -13,4 +13,4 @@
    contributing
    Code of Conduct <codeofconduct>
    License <license>
-   Changelog <https://github.com/cyberlutions-jo/hord/releases>
+   Changelog <https://github.com/CyberHQ/hord/releases>
